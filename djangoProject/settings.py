@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-ozp+l7mz_$v=u&8#-@6vn-=0$itmho2#k5d&t1_e+1dmsu1t*k
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['rock-paper-scissors-django.onrender.com', '127.0.0.1']
 
 # Application definition
 
